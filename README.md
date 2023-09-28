@@ -1,7 +1,4 @@
-# Arka Network: Transcending boundaries in the age of decentralized creativity.
-
-**Welcome to the Arka Network!** \
-
+# Welcome to the Arka Network!
 
 **Greetings, Arka community and enthusiasts! 🚀**
 
