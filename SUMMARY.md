@@ -1,17 +1,3 @@
 # Table of contents
 
-* [Overview](README.md)
-* [Problem Statement](problem-statement.md)
-* [Solution](solution.md)
-* [Core Features](core-features.md)
-* [How the platform works](how-the-platform-works.md)
-* [Technology](technology/README.md)
-  * [Leveraging Cosmos SDK](technology/leveraging-cosmos-sdk.md)
-  * [Royalties Module](technology/royalties-module.md)
-  * [Payment Splitter Contract](technology/payment-splitter-contract.md)
-  * [Decentralized GPU Network Integration](technology/decentralized-gpu-network-integration.md)
-  * [NFT Leasing and Licensing](technology/nft-leasing-and-licensing.md)
-* [Tokenomics](tokenomics/README.md)
-  * [Token Utility](tokenomics/token-utility.md)
-  * [Token Distribution](tokenomics/token-distribution.md)
-* [Progressive Decentralized Roadmap](progressive-decentralized-roadmap.md)
+* [Arka Network: Transcending boundaries in the age of decentralized creativity.](README.md)
