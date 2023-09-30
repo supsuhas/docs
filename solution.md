@@ -1,3 +1,7 @@
+---
+description: 'WIP : Currently work in progress, subject to change as per core contributors'
+---
+
 # Solution
 
 Arka Network offers a well-rounded approach to solving the challenges faced by different stakeholders in the AI and creative sectors:

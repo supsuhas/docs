@@ -1,3 +1,7 @@
+---
+description: 'WIP : Currently work in progress, subject to change as per core contributors'
+---
+
 # How the platform works
 
 **AI Model Upload:** Developers start their journey on Arka Network by uploading their AI models.

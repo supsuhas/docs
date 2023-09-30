@@ -1,3 +1,7 @@
+---
+description: 'WIP : Currently work in progress, subject to change as per core contributors'
+---
+
 # Welcome to the Arka Network!
 
 **Greetings, Arka community and enthusiasts! 🚀**

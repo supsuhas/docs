@@ -1,3 +1,7 @@
+---
+description: 'WIP : Currently work in progress, subject to change as per core contributors'
+---
+
 # Royalties Module
 
 Royalties form the crux of ensuring creators are continuously rewarded for their ingenuity. While the concept of royalties isn't new, Arka Network believes in innovating and refining this system, especially in the ever-evolving NFT space.

@@ -1,3 +1,7 @@
+---
+description: 'WIP : Currently work in progress, subject to change as per core contributors'
+---
+
 # Core Features
 
 **AI Model as NFT:**
@@ -18,15 +22,15 @@ Building on the growing trend of NFT renting, Arka Network elevates the concept.
 
 Arka Network provides content creators with a comprehensive suite of tools to maximize their creativity:
 
-Vast AI Model Selection: Creators can tap into an extensive collection of AI models, allowing them to produce creative content both efficiently and affordably.
+_Vast AI Model Selection:_ Creators can tap into an extensive collection of AI models, allowing them to produce creative content both efficiently and affordably.
 
-Prompt Tools: Creators are offered tools to generate multiple variations of prompts, enhancing the diversity of the content output.
+_Prompt Tools:_ Creators are offered tools to generate multiple variations of prompts, enhancing the diversity of the content output.
 
-Integration with Advanced AI Tools: Seamless integration with tools like ChatGPT ensures an intuitive way for creators to instruct AI models.
+_Integration with Advanced AI Tools:_ Seamless integration with tools like ChatGPT ensures an intuitive way for creators to instruct AI models.
 
-Editing Tools: After content generation, creators have the capability to make edits based on the type of content, ensuring the final output aligns with their vision.
+_Editing Tools:_ After content generation, creators have the capability to make edits based on the type of content, ensuring the final output aligns with their vision.
 
-Flexible Export Options: Once satisfied with the content, creators can export their work in various formats, catering to different distribution needs.
+_Flexible Export Options:_ Once satisfied with the content, creators can export their work in various formats, catering to different distribution needs.
 
 **Launchpad for AI Models**
 

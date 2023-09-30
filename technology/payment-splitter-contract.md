@@ -1,3 +1,7 @@
+---
+description: 'WIP : Currently work in progress, subject to change as per core contributors'
+---
+
 # Payment Splitter Contract
 
 In the evolving landscape of NFTs, especially those generated using AI models, the creation process often involves multiple stakeholders. For an NFT birthed from an AI model, there's the model creator who designs and fine-tunes the AI model, and the content creator who uses this model to generate unique content. Both play pivotal roles and bring distinct value to the final NFT product. Hence, it's essential that the royalties garnered from the NFT's sales or leases are equitably divided based on their contributions.

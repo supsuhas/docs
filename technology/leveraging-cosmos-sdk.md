@@ -1,3 +1,7 @@
+---
+description: 'WIP : Currently work in progress, subject to change as per core contributors'
+---
+
 # Leveraging Cosmos SDK
 
 Arka Network's technological foundation is rooted in the Cosmos SDK, a state-of-the-art framework for building interoperable and customizable blockchains. Here's a detailed insight:

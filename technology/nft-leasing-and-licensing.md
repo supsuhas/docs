@@ -1,3 +1,7 @@
+---
+description: 'WIP : Currently work in progress, subject to change as per core contributors'
+---
+
 # NFT Leasing and Licensing
 
 Arka Network is in the process of developing new Interchain Standards (ICS) aimed at NFT leasing and licensing. Drawing inspiration from the ERC-5635 standard, Arka's innovative approach promises to bring transparency, consistency, and clarity to the world of NFT licensing, especially in relation to derivative artworks.
